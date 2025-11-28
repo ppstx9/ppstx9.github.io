@@ -25,12 +25,12 @@
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
-      "pixelmon-horizon.net"
+      "poke-reverse.net"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "aaa",
+    "hwid": "test",
     "modid": "pokemonjob",
     "active": true,
     "can_edit": true
