@@ -50,13 +50,14 @@
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
-      ""
+      "*"
     ],
     "allowed_ips": [
-      ""
+      "*"
     ],
-    "hwid": "",
+    "hwid": "*",
     "modid": "",
-    "active": false
+    "active": true,
+    "can_edit": false
   }
 }
