@@ -13,12 +13,12 @@
   },
   "VU3I-68QZ-SJFI-182M": {
     "allowed_domains": [
-      "asdas"
+      "test"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "asdas",
+    "hwid": "test",
     "modid": "",
     "active": true,
     "can_edit": true
