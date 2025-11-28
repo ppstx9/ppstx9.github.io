@@ -33,6 +33,6 @@
     "hwid": "*",
     "modid": "",
     "active": true,
-    "can_edit": false
+    "can_edit": true
   }
 }
