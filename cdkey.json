@@ -21,7 +21,7 @@
     "hwid": "asdas",
     "modid": "",
     "active": true,
-    "can_edit": false
+    "can_edit": true
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
