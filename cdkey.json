@@ -33,6 +33,6 @@
     "hwid": "test",
     "modid": "pokemonjob",
     "active": true,
-    "can_edit": false
+    "can_edit": true
   }
 }
