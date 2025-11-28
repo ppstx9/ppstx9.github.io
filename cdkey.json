@@ -1,9 +1,25 @@
 {
-  "ABCD-1234-EFGH-9999": {
-    "allowed_domains": ["play.yourserver.com"],
-    "allowed_ips": ["45.77.23.9"],
+  "QG5A-JASX-5YH9-1KIZ": {
+    "allowed_domains": [""],
+    "allowed_ips": [""],
     
-    "hwid": "D0-17-C2-81-44-19_AMD5600G_ASUSB550_3FF8-99A1",
+    "hwid": "",
+
+    "active": true
+  },
+  "VU3I-68QZ-SJFI-182M": {
+    "allowed_domains": [""],
+    "allowed_ips": [""],
+    
+    "hwid": "",
+
+    "active": true
+  },
+  "MEV5-XPZS-60GJ-P70U": {
+    "allowed_domains": [""],
+    "allowed_ips": [""],
+    
+    "hwid": "",
 
     "active": true
   }
