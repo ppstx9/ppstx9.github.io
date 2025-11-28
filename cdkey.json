@@ -9,22 +9,6 @@
     "hwid": "A0-02-A5-C4-44-83_Intel64Family6Model183Stepping1,GenuineIntel_CBP3ZMC0008_6B74D475-2BAE-8A4A-8B9C-E9F74D5081C9",
     "modid": "anticheat",
     "active": true,
-    "history": [
-      {
-        "time": "2025-11-29T04:44:21.921405+07:00",
-        "user_id": 495260948093861888,
-        "username": "ppstx9",
-        "action": "request_edit",
-        "amount": 100
-      },
-      {
-        "time": "2025-11-29T04:45:26.995885+07:00",
-        "user_id": 495260948093861888,
-        "username": "ppstx9",
-        "action": "request_edit",
-        "amount": 100
-      }
-    ],
     "can_edit": false
   },
   "VU3I-68QZ-SJFI-182M": {
@@ -37,15 +21,6 @@
     "hwid": "*",
     "modid": "",
     "active": true,
-    "history": [
-      {
-        "time": "2025-11-29T05:01:49.648260+07:00",
-        "user_id": 495260948093861888,
-        "username": "ppstx9",
-        "action": "initial_config",
-        "amount": 0
-      }
-    ],
     "can_edit": false
   },
   "MEV5-XPZS-60GJ-P70U": {
