@@ -29,14 +29,24 @@
   },
   "VU3I-68QZ-SJFI-182M": {
     "allowed_domains": [
-      ""
+      "*"
     ],
     "allowed_ips": [
-      ""
+      "*"
     ],
-    "hwid": "",
+    "hwid": "*",
     "modid": "",
-    "active": false
+    "active": true,
+    "history": [
+      {
+        "time": "2025-11-29T05:01:49.648260+07:00",
+        "user_id": 495260948093861888,
+        "username": "ppstx9",
+        "action": "initial_config",
+        "amount": 0
+      }
+    ],
+    "can_edit": false
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
