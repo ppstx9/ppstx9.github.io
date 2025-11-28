@@ -1,29 +1,45 @@
 {
   "QG5A-JASX-5YH9-1KIZ": {
-    "allowed_domains": ["*"],
-    "allowed_ips": ["*"],
-    
+    "allowed_domains": [
+      "*"
+    ],
+    "allowed_ips": [
+      "*"
+    ],
     "hwid": "A0-02-A5-C4-44-83_Intel64Family6Model183Stepping1,GenuineIntel_CBP3ZMC0008_6B74D475-2BAE-8A4A-8B9C-E9F74D5081C9",
     "modid": "anticheat",
-
-    "active": true
+    "active": true,
+    "history": [
+      {
+        "time": "2025-11-29T04:44:21.921405+07:00",
+        "user_id": 495260948093861888,
+        "username": "ppstx9",
+        "action": "request_edit",
+        "amount": 100
+      }
+    ],
+    "can_edit": false
   },
   "VU3I-68QZ-SJFI-182M": {
-    "allowed_domains": [""],
-    "allowed_ips": [""],
-    
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
     "hwid": "",
     "modid": "",
-
     "active": false
   },
   "MEV5-XPZS-60GJ-P70U": {
-    "allowed_domains": [""],
-    "allowed_ips": [""],
-    
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
     "hwid": "",
     "modid": "",
-
     "active": false
   }
 }
