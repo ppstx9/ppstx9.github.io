@@ -1,9 +1,9 @@
 {
   "QG5A-JASX-5YH9-1KIZ": {
-    "allowed_domains": [""],
-    "allowed_ips": [""],
+    "allowed_domains": ["*"],
+    "allowed_ips": ["*"],
     
-    "hwid": "",
+    "hwid": "A0-02-A5-C4-44-83_Intel64Family6Model183Stepping1,GenuineIntel_CBP3ZMC0008_6B74D475-2BAE-8A4A-8B9C-E9F74D5081C9",
 
     "active": true
   },
