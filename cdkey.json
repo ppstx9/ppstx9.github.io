@@ -13,7 +13,7 @@
     
     "hwid": "",
 
-    "active": true
+    "active": false
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [""],
@@ -21,6 +21,6 @@
     
     "hwid": "",
 
-    "active": true
+    "active": false
   }
 }
