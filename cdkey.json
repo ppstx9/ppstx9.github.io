@@ -21,7 +21,7 @@
     "hwid": "test",
     "modid": "",
     "active": true,
-    "can_edit": true
+    "can_edit": false
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
@@ -33,6 +33,6 @@
     "hwid": "test",
     "modid": "pokemonjob",
     "active": true,
-    "can_edit": true
+    "can_edit": false
   }
 }
