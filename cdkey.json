@@ -34,5 +34,17 @@
     "modid": "pokemonjob",
     "active": true,
     "can_edit": false
+  },
+  "ONB8-ZUGZ-OQOM-CNMK": {
+    "allowed_domains": [
+      "*"
+    ],
+    "allowed_ips": [
+      "*"
+    ],
+    "hwid": "",
+    "modid": "pokemoninfo",
+    "active": true,
+    "can_edit": false
   }
 }
