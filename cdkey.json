@@ -25,12 +25,12 @@
   },
   "MEV5-XPZS-60GJ-P70U": {
     "allowed_domains": [
-      "test"
+      "asdsaad"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "test",
+    "hwid": "asdsadsad",
     "modid": "pokemonjob",
     "active": true,
     "can_edit": true
