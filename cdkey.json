@@ -10,5 +10,17 @@
     "modid": "anticheat",
     "active": true,
     "can_edit": false
+  },
+  "GDEK-2MK2-6JL2-OUIX": {
+    "allowed_domains": [
+      "*"
+    ],
+    "allowed_ips": [
+      "*"
+    ],
+    "hwid": "",
+    "modid": "pokemoninfo",
+    "active": true,
+    "can_edit": false
   }
 }
