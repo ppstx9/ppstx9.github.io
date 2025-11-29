@@ -1,1 +1,14 @@
-{}
+{
+  "6969-CUXU-OHU8-KQH4": {
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
+    "hwid": "",
+    "modid": "anticheat",
+    "active": true,
+    "can_edit": false
+  }
+}
