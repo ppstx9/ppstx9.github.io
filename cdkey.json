@@ -13,12 +13,12 @@
   },
   "VU3I-68QZ-SJFI-182M": {
     "allowed_domains": [
-      "test"
+      "enjoy"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "test",
+    "hwid": "enjoy",
     "modid": "",
     "active": true,
     "can_edit": false
