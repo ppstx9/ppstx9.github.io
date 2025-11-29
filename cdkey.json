@@ -13,12 +13,12 @@
   },
   "VU3I-68QZ-SJFI-182M": {
     "allowed_domains": [
-      "teretsetest"
+      "poke-reverse.net"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "setsettestse",
+    "hwid": "A0-02-A5-C4-44-83_Intel64Family6Model183Stepping1,GenuineIntel_CBP3ZMC0008_6B74D475-2BAE-8A4A-8B9C-E9F74D5081C9",
     "modid": "",
     "active": true,
     "can_edit": false
