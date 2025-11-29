@@ -1,2 +1,14 @@
 {
+  "V292-08AO-WU41-LH3C": {
+    "allowed_domains": [
+      "*"
+    ],
+    "allowed_ips": [
+      "*"
+    ],
+    "hwid": "",
+    "modid": "anticheat",
+    "active": true,
+    "can_edit": false
+  }
 }
