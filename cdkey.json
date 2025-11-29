@@ -37,10 +37,10 @@
   },
   "ONB8-ZUGZ-OQOM-CNMK": {
     "allowed_domains": [
-      "*"
+      ""
     ],
     "allowed_ips": [
-      "*"
+      ""
     ],
     "hwid": "",
     "modid": "pokemoninfo",
