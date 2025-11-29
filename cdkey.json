@@ -34,5 +34,11 @@
     "modid": "pokemonjob",
     "active": true,
     "can_edit": false
+  },
+  "api_keys": {
+    "pokemoninfo": {
+      "apikey": "c4effa962591f3749461d9b91c2f92b8",
+      "modid": "pokemoninfo"
+    }
   }
 }
