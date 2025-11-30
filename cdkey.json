@@ -13,12 +13,12 @@
   },
   "ZFWF-DB0J-XMHM-EWBH": {
     "allowed_domains": [
-      ""
+      "poke-horizon.net"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "",
+    "hwid": "08-BF-B8-40-3D-F9_AMD64Family25Model97Stepping2,AuthenticAMD_230318119500894_2D110E48-E560-0BFF-EA88-08BFB8403DF9",
     "modid": "dialogues",
     "active": true,
     "can_edit": false
