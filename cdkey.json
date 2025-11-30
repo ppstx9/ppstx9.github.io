@@ -22,5 +22,17 @@
     "modid": "dialogues",
     "active": true,
     "can_edit": false
+  },
+  "88SW-9C9X-C4U8-MT7U": {
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
+    "hwid": "",
+    "modid": "dialogues",
+    "active": false,
+    "can_edit": false
   }
 }
