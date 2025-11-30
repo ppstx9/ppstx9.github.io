@@ -22,5 +22,17 @@
     "modid": "dialogues",
     "active": true,
     "can_edit": false
+  },
+  "KJK4-2TDU-QEXM-OAC9": {
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
+    "hwid": "",
+    "modid": "dialogues",
+    "active": false,
+    "can_edit": false
   }
 }
