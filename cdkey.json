@@ -6,7 +6,7 @@
     "allowed_ips": [
       ""
     ],
-    "hwid": "mc.pixelmon-sigma.xyz",
+    "hwid": "00-00-00-00-00-00-00-E0_AMD64Family23Model113Stepping0,AuthenticAMD_Defaultstring_035E02D8-04D3-0512-BF06-DC0700080009",
     "modid": "pokemoninfo",
     "active": true,
     "can_edit": false
