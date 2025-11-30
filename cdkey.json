@@ -1,14 +1,14 @@
 {
   "UB2X-IBX4-5DIK-KQ76": {
     "allowed_domains": [
-      ""
+      "mc.pixelmon-sigma.xyz"
     ],
     "allowed_ips": [
       ""
     ],
-    "hwid": "",
+    "hwid": "mc.pixelmon-sigma.xyz",
     "modid": "pokemoninfo",
-    "active": false,
+    "active": true,
     "can_edit": false
   }
 }
