@@ -28,11 +28,11 @@
       ""
     ],
     "allowed_ips": [
-      ""
+      "223.205.250.110"
     ],
-    "hwid": "",
+    "hwid": "223.205.250.110",
     "modid": "dialogues",
-    "active": false,
+    "active": true,
     "can_edit": false
   }
 }
