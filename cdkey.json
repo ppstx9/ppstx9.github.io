@@ -1,10 +1,10 @@
 {
   "UB2X-IBX4-5DIK-KQ76": {
     "allowed_domains": [
-      "mc.pixelmon-sigma.xyz"
+      ""
     ],
     "allowed_ips": [
-      ""
+      "26.167.92.58"
     ],
     "hwid": "00-00-00-00-00-00-00-E0_AMD64Family23Model113Stepping0,AuthenticAMD_Defaultstring_035E02D8-04D3-0512-BF06-DC0700080009",
     "modid": "pokemoninfo",
