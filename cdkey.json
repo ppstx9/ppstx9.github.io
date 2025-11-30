@@ -10,5 +10,17 @@
     "modid": "anticheat",
     "active": true,
     "can_edit": false
+  },
+  "UB2X-IBX4-5DIK-KQ76": {
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
+    "hwid": "",
+    "modid": "pokemoninfo",
+    "active": true,
+    "can_edit": false
   }
 }
