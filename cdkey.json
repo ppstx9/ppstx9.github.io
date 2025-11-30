@@ -10,5 +10,17 @@
     "modid": "pokemoninfo",
     "active": true,
     "can_edit": false
+  },
+  "ZFWF-DB0J-XMHM-EWBH": {
+    "allowed_domains": [
+      ""
+    ],
+    "allowed_ips": [
+      ""
+    ],
+    "hwid": "",
+    "modid": "dialogues",
+    "active": true,
+    "can_edit": false
   }
 }
