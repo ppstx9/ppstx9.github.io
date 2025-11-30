@@ -20,7 +20,7 @@
     ],
     "hwid": "",
     "modid": "pokemoninfo",
-    "active": true,
+    "active": false,
     "can_edit": false
   }
 }
